@@ -10,7 +10,7 @@ est un système innouvant qui propose une solution au problème du don de sang q
 Le système est proactif et prédictif :  il favorise une culture durable du don en personnalisant l'expérience utilisateur,alertant non seulement les parties prenantes sur les pénuries potentielles de sang, mais aussi les prévenant grâce à des prévisions intelligentes en utilisant LLM et des modèles d'AI.
 
 ### Fonctionnalités clés :
-- **Integration IA Générative(Module RAG)**: Intégré à un LLM (Llama3-8b), il permet de generer en langage naturel l’état des stocks de sang dans les hôpitaux marocains.
+- **Integration IA Générative(Système RAG)**: Intégré à un LLM (Llama3-8b), il permet de generer en langage naturel l’état des stocks de sang dans les hôpitaux marocains.
 - **Prédiction de l'anémie** : en saisissant des résultats d’analyse sanguine tels que Hémoglobine (Hemoglobin), MCV, MCH, et MCHC, l'utilisateur peut évaluer son risque d'anémie qui est important pour décider s'il pourra faire un don.
 Module d'analyse sanguine    
 
